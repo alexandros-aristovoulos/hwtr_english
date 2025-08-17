@@ -1,5 +1,5 @@
 # Hand Written Text Recognition (for English)
-
+A detailed video explaining the enire process <b>in Greek</b> can be found [here](https://www.youtube.com/watch?v=5OBMEm4RhT4&ab_channel=AlexandrosAristovoulos)
 
 ### Description
 This is part of my master thesis titled "Recognition Of Handwritten Text With The Use Of Machine Learning" (Original tiltle in Greek: "Αναγνώριση Χειρόγραφου Κειμένου Με Χρήση Μηχανικής Μάθησης") for the University of Patras.
@@ -129,4 +129,5 @@ Perform calculations with arrays, load and read arrays from .npy files
 Display images and read their pixel values as arrays 
 
 - [Matplotlib](https://pypi.org/project/matplotlib/) <br>
+
 Display images
